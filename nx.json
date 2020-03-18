@@ -1,0 +1,14 @@
+{
+  "npmScope": "experiments-202003-monorepo-nx-angular-ivy",
+  "implicitDependencies": {
+    "workspace.json": "*",
+    "package.json": {
+      "dependencies": "*",
+      "devDependencies": "*"
+    },
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {}
+}
