@@ -15,7 +15,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@experiments-202003-monorepo-nx-angular-ivy/normalizers": [
+        "libs/normalizers/src/index.ts"
+      ]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
