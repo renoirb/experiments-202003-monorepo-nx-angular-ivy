@@ -36,7 +36,11 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "@nrwl/angular": "^9.1.2",
+    "@nrwl/node": "^9.1.2",
     "@nrwl/workspace": "9.1.2",
+    "@renoirb/conventions-use-prettier": "^1.0.1",
+    "@renoirb/tools-bundling-helpers": "^1.0.2",
     "@types/node": "~8.9.4",
     "dotenv": "6.2.0",
     "eslint": "6.8.0",
