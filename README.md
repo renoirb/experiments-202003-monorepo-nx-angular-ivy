@@ -84,3 +84,10 @@ yarn add --dev @nrwl/node
 yarn nx list @nrwl/node
 yarn nx generate @nrwl/node:library normalizers
 ```
+
+### Testing migrated code
+
+```console
+yarn nx affected:test
+yarn nx affected:build
+```
